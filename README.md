@@ -29,14 +29,21 @@ Route commands through internet seems to be a good idea to me, however, the wire
 * [Termux-adb](https://github.com/nohajc/termux-adb)
 
 2. Adjust **Developer options** within **Settings** app
-   <div style="display:flex;">
-   <div style="flex:50%;">
-    * **Allow screen overlays on Settings** : Set to **ON**
-    * **Wireless debugging**: Set to **ON**
-   </div>
-   <div style="flex:50%;">
+
+   <div style="display: inline-block;">
     <img src="https://github.com/bonianchen/bonian_blog/blob/main/IMG_20230628_223637.jpg" width="200" />
    </div>
+   <div style="display: inline-block;">
+      <ul>
+      <li>
+        <b>Allow screen overlays on Settings</b>:<br>
+        Set to <b>ON</b>
+      </li>
+      <li>
+        <b>Wireless debugging</b>:<br>
+        Set to <b>ON</b>
+      </li>
+      </ul>
    </div>
 
 4. Close **Settings** app
