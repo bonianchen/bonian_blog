@@ -31,19 +31,18 @@ Route commands through internet seems to be a good idea to me, however, the wire
 2. Adjust **Developer options** within **Settings** app
 
    <table><tr><td>
-    <img src="https://github.com/bonianchen/bonian_blog/blob/main/IMG_20230628_223637.jpg" width="200" />
-   </td><td>
-      <ul>
-      <li>
-        <b>Allow screen overlays on Settings</b>:<br>
-        Set to <b>ON</b>
-      </li>
-      <li>
         <b>Wireless debugging</b>:<br>
         Set to <b>ON</b>
-      </li>
-      </ul>
-   </td></tr></table>
+   </td><td>
+        <b>Allow screen overlays on Settings</b>:<br>
+        Set to <b>ON</b>
+   </td></tr>
+    <tr><td>
+    <img src="https://github.com/bonianchen/bonian_blog/blob/main/pics/IMG_20230629_001855.png" width="400" />
+   </td><td>
+    <img src="https://github.com/bonianchen/bonian_blog/blob/main/pics/IMG_20230629_001641.png" width="400" />
+   </td></tr>
+   </table>
 
 4. Close **Settings** app
 
