@@ -30,10 +30,9 @@ Route commands through internet seems to be a good idea to me, however, the wire
 
 2. Adjust **Developer options** within **Settings** app
 
-   <div style="display: inline-block;">
+   <table><tr><td>
     <img src="https://github.com/bonianchen/bonian_blog/blob/main/IMG_20230628_223637.jpg" width="200" />
-   </div>
-   <div style="display: inline-block;">
+   </td><td>
       <ul>
       <li>
         <b>Allow screen overlays on Settings</b>:<br>
@@ -44,7 +43,7 @@ Route commands through internet seems to be a good idea to me, however, the wire
         Set to <b>ON</b>
       </li>
       </ul>
-   </div>
+   </td></tr></table>
 
 4. Close **Settings** app
 
