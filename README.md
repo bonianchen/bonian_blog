@@ -85,3 +85,11 @@ Some users reported unable to pair due to certificate issues
               Issue command: `adb keygen`
 
    2. Issue command `ps axw` and kill suspicious process as much as possible.
+
+### Author
+
+    [LinkedIn](https://www.linkedin.com/in/bonian-chen-6781635a)
+
+### History
+
+    2023/06/29 First Draft
