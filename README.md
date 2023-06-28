@@ -60,11 +60,21 @@ Route commands through internet seems to be a good idea to me, however, the wire
 
 8. Move focus to Termux:Float and issue pairing commands:
 
-    `adb pair localhost:[port number] [pair code]`
-
-    `adb connect localhost:[connect port]`
+    <table><tr><td>1.</td><td>
+    <code>adb pair localhost:[port number] [pair code]</code>
+    </td></tr><tr><td></td><td>
+    <img src="https://github.com/bonianchen/bonian_blog/blob/main/pics/IMG_20230629_002044.png" width="400" />
+    </td></tr>
+    <tr><td>&nbsp;</td></tr>
+    <tr><td>2.</td><td>
+    <code>adb connect localhost:[connect port]</code>
+    </td></tr><tr><td></td><td>
+    <img src="https://github.com/bonianchen/bonian_blog/blob/main/pics/IMG_20230629_002149.png" width="400" />
+    </td></tr><table>
 
 9. Verify the status of pairing
+
+    <img src="https://github.com/bonianchen/bonian_blog/blob/main/pics/IMG_20230629_002243.png" width="400" />
 
 ### Troubleshooting
 
