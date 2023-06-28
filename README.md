@@ -29,32 +29,37 @@ Route commands through internet seems to be a good idea to me, however, the wire
 * [Termux-adb](https://github.com/nohajc/termux-adb)
 
 2. Adjust **Developer options** within **Settings** app
+   <div style="display:flex;">
+   <div style="flex:50%;">
     * **Allow screen overlays on Settings** : Set to **ON**
     * **Wireless debugging**: Set to **ON**
+   </div>
+   <div style="flex:50%;">
+    <img src="https://github.com/bonianchen/bonian_blog/blob/main/IMG_20230628_223637.jpg" width="200" />
+   </div>
+   </div>
 
-    ![Sample Screenshot](https://github.com/bonianchen/bonian_blog/blob/main/IMG_20230628_223637.jpg)
+4. Close **Settings** app
 
-3. Close **Settings** app
-
-4. Launch Termux:Float
+5. Launch Termux:Float
 
     A terminal would be float on screen
 
-5. Launch **Settings** app again
+6. Launch **Settings** app again
 
     Termux:Float remains stay on top of **Settings** app
 
-6. Clicked the **Pair device with pairing code** button within **Wireless debugging**
+7. Clicked the **Pair device with pairing code** button within **Wireless debugging**
 
     A pop-up dialog show-up with pairing information
 
-7. Move focus to Termux:Float and issue pairing commands:
+8. Move focus to Termux:Float and issue pairing commands:
 
     `adb pair localhost:[port number] [pair code]`
 
     `adb connect localhost:[connect port]`
 
-8. Verify the status of pairing
+9. Verify the status of pairing
 
 ### Troubleshooting
 
